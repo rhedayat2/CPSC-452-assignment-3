@@ -11,7 +11,7 @@ Instructions to Execute Code:
   1. Open terminal and change to program directory
   
   2. Run program by entering:
-      python signer.py <<KEY FILE NAME> <SIGNATURE FILE NAME> <INPUT FILE NAME> <MODE>>
+      python signer.py <<KEY FILE NAME>> <SIGNATURE FILE NAME> <INPUT FILE NAME> <MODE>>
      
      For example:
      
