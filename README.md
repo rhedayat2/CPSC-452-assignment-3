@@ -14,6 +14,7 @@ Instructions to Execute Code:
       python signer.py <KEY FILE NAME> <SIGNATURE FILE NAME> <INPUT FILE NAME> <MODE>
      
      For example:
+     
      to sign:
         python signer.py privKey.pem signature.sig input.txt sign
      
