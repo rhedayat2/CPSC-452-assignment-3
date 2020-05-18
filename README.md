@@ -11,12 +11,15 @@ Instructions to Execute Code:
   1. Open terminal and change to program directory
   
   2. Run program by entering:
+      
       ```python signer.py <KEY FILE NAME> <SIGNATURE FILE NAME> <INPUT FILE NAME> <MODE>>```
      
      For example:
      
      to sign:
-        python signer.py privKey.pem signature.sig input.txt sign
+        
+        ```python signer.py privKey.pem signature.sig input.txt sign```
      
      to verify:
-        python signer.py pubKey.pem signature.sig input.txt verify
+        
+        ```python signer.py pubKey.pem signature.sig input.txt verify```
