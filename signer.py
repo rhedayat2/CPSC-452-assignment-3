@@ -116,10 +116,11 @@ def loadSig(fileName):
 	# Open the file, read the signature string, convert it
 	# into an integer, and then put the integer into a single
 	# element tuple
-	filename = open(fileName, 'r')
-	content = int(filename.read())
-	sig = (content, )
+	with open(fileName, 'r') as keyFile:
+		content = int(keyFile.read())
+		sig = (content, )
 	return sig
+	
 	
 	
 #################################################
