@@ -2,7 +2,16 @@
 
 For CSUF Cryptography with Mikael Gofman for Spring 2020
 
-Students: Rahin Hedayat rhedayat2@csu.fullerton.edu Esteban Montelongo EstebanMontelongo@csu.fullerton.edu Kayla Nguyen knguyen1170@csu.fullerton.edu Daniel Pestolesi Danpestolesi@csu.fullerton.edu
+Students: 
+
+Rahin Hedayat rhedayat2@csu.fullerton.edu 
+
+Esteban Montelongo EstebanMontelongo@csu.fullerton.edu 
+
+Kayla Nguyen knguyen1170@csu.fullerton.edu 
+
+Daniel Pestolesi Danpestolesi@csu.fullerton.edu
+
 
 Program completed in Python
 
