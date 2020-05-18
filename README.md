@@ -16,5 +16,6 @@ Instructions to Execute Code:
      For example:
      to sign:
         python signer.py privKey.pem signature.sig input.txt sign
+     
      to verify:
         python signer.py pubKey.pem signature.sig input.txt verify
